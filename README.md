@@ -1,15 +1,110 @@
+# Hi, I'm Huỳnh Thị Thùy Trang 👋
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chanze00) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/iw.aurora.4227) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/trang-hu%E1%BB%B3nh-90b870389/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Trang Huỳnh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trangcute04022007@gmail.com) 
+🎓 Software Engineering Student
+💻 Interested in Web Development
+🌱 Currently learning and exploring more about Backend Development
+🚀 Building small projects while improving my programming skills
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=iw-aurora&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=iw-aurora&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=iw-aurora&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> Learning step by step, building things along the way. ✨
 
 ---
-[![](https://komarev.com/ghpvc/?username=iw-aurora&icon=9&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+Facebook: https://www.facebook.com/iw.aurora.4227
+Discord: chanze00
+Linkin:https://www.linkedin.com/in/trang-hu%E1%BB%B3nh-90b870389/
+Email: [aurora6w9@gmail.com](mailto:aurora6w9@gmail.com)
+🌷 **Portfolio:** [myportfolio-beta-coral-59.vercel.app](https://myportfolio-beta-coral-59.vercel.app/)
+
+---
+
+## 💻 Tech Stack
+
+### Programming & Web
+
+
+
+\
+
+### Database & Services
+
+\
+
+### Development Tools
+
+
+\
+
+### Other Tools
+
+\
+
+---
+
+## 🚀 Featured Projects
+
+### 🌌 IW Aurora
+
+My personal portfolio project, built while exploring frontend development and creating a place to showcase my work.
+
+**Built with:** Vite · JavaScript · Firebase · Firestore
+
+🌐 [Live Portfolio](https://myportfolio-beta-coral-59.vercel.app/)
+
+💻 [GitHub](https://github.com/iw-aurora)
+
+---
+
+### 🎬 Movies Project
+
+A small web project focused on working with movie-related data and practicing frontend development.
+
+**Built with:** JavaScript · Firebase
+
+💻 [Repository](https://github.com/iw-aurora/movies_project)
+
+---
+
+### 🎓 Student Management System
+
+A Data Structures & Algorithms project for managing and searching student information.
+
+**Main focus:**
+
+* 🔎 Exact student ID search
+* 🌳 Hash Table
+* 🔍 Linear Search
+* 📊 Search performance benchmarking
+
+💻 [Repository](https://github.com/iw-aurora/Project_DSA)
+
+---
+
+## 🌱 Currently Learning
+
+I'm currently continuing to build my foundation in **Backend Development**, while improving the frontend and programming skills I already have.
+
+```text
+Frontend        → HTML · CSS · JavaScript
+Programming     → C++ 
+Database        → MySQL · Firebase
+Backend         → Learning & exploring
+Tools           → Git · GitHub · Vercel
+```
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+<div align="center">
+
+🌷 *Still learning, still building, one project at a time.*
+
+<img src="https://komarev.com/ghpvc/?username=iw-aurora&icon=9&color=5" alt="Profile views"/>
+
+</div>
+
+<!-- Proudly created and customized from GPRM -->
