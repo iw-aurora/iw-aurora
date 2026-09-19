@@ -1,85 +1,159 @@
-# Hi, I'm Huỳnh Thị Thùy Trang 👋
+# 🌷 Hi, I'm Huỳnh Thị Thùy Trang
 
+<p align="center">
+  <img 
+    src="./profile.png" 
+    alt="Huỳnh Thị Thùy Trang"
+    width="280"
+    style="border-radius: 20px;"
+  />
+</p>
+
+<p align="center">
+  🎓 Software Engineering Student &nbsp; ✦ &nbsp;
+  💻 Web Development &nbsp; ✦ &nbsp;
+  🌱 Backend Development
+</p>
+
+<p align="center">
+  <i>Learning step by step, building things along the way. ♡</i>
+</p>
+---
+
+## 🎀 About Me
+
+```text
 🎓 Software Engineering Student
 💻 Interested in Web Development
-🌱 Currently learning and exploring more about Backend Development
-🚀 Building small projects while improving my programming skills
-
-> Learning step by step, building things along the way. ✨
+🌱 Currently learning Backend Development
+🚀 Building projects while improving my programming skills
+✨ Slowly growing from Frontend → Full-stack
+```
 
 ---
 
-## 🌐 Connect With Me
+## 💌 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/iw.aurora.4227)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/chanze00)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/trang-hu%E1%BB%B3nh-90b870389/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aurora6w9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E8A0BF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://myportfolio-beta-coral-59.vercel.app/)
+<p align="center">
+
+<a href="https://www.facebook.com/iw.aurora.4227">
+<img src="https://img.shields.io/badge/Facebook-FF8FB1?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/chanze00">
+<img src="https://img.shields.io/badge/Discord-B8A9E8?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/trang-hu%E1%BB%B3nh-90b870389/">
+<img src="https://img.shields.io/badge/LinkedIn-9BB7D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aurora6w9@gmail.com">
+<img src="https://img.shields.io/badge/Email-F4A6B7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://myportfolio-beta-coral-59.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-E8A0BF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  🌸 ✦ ⋆｡°✩ ⋆｡°✩ ✦ 🌸
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-### Programming
+### 🌸 Programming
 
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<p>
 
-**Concepts:** Object-Oriented Programming · Data Structures & Algorithms · Complexity Analysis
+<img src="https://img.shields.io/badge/C%2B%2B-7B9ACC?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-D98B8B?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-E8C66D?style=for-the-badge&logo=javascript&logoColor=333333"/>
 
-### Web Development
+</p>
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)](https://tailwindcss.com/)
+**Concepts:**
+Object-Oriented Programming · Data Structures & Algorithms · Complexity Analysis
 
-**Concepts:** REST APIs · JSON · Frontend Development
+### 🎀 Web Development
 
-### Data Structures
+<p>
 
-[![Hash Table](https://img.shields.io/badge/Hash_Table-4B5563?style=for-the-badge)](#)
-[![Searching](https://img.shields.io/badge/Searching-6B7280?style=for-the-badge)](#)
-[![Sorting](https://img.shields.io/badge/Sorting-6B7280?style=for-the-badge)](#)
+<img src="https://img.shields.io/badge/HTML5-E89B9B?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-8DA9D6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-B8A9E8?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-8BCFD1?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-**Structures:** Arrays · Linked Lists · Stacks · Queues
+</p>
 
-### Database & Services
+**Concepts:**
+REST APIs · JSON · Frontend Development
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)](https://firebase.google.com/)
-[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)](#)
+### 🧩 Data Structures
 
-**Database:** SQL · Relational Database Concepts · Firestore
+<p>
 
-### Development Workflow
+<img src="https://img.shields.io/badge/Hash_Table-C79AC8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Searching-B08BBB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sorting-C9A7D8?style=for-the-badge"/>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://vercel.com/)
+</p>
 
-**Workflow:** Branching · Commits · Pull / Push · Deployment
+**Structures:**
+Arrays · Linked Lists · Stacks · Queues
 
-### Other Tools
+### 🗄️ Database & Services
 
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=Canva\&logoColor=white)](https://www.canva.com/)
-[![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge\&logo=gimp\&logoColor=FFFFFF)](https://www.gimp.org/)
+<p>
+
+<img src="https://img.shields.io/badge/MySQL-8FAFD1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-F2B880?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-B7A6D9?style=for-the-badge&logo=json&logoColor=white"/>
+
+</p>
+
+**Database:**
+SQL · Relational Database Concepts · Firestore
+
+### 🛠️ Development Workflow
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-E89A7A?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-7D7183?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-C4A7C5?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</p>
+
+**Workflow:**
+Branching · Commits · Pull / Push · Deployment
+
+### 🎨 Other Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Canva-FF8FB1?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIMP-9B8FB3?style=for-the-badge&logo=gimp&logoColor=white"/>
+
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🩷 Featured Projects
 
 ### 🌌 IW Aurora
 
 My personal portfolio project, built while exploring frontend development and creating a place to showcase my work.
 
-**Built with:** Vite · JavaScript · Firebase · Firestore
+**Built with:** `Vite` · `JavaScript` · `Firebase` · `Firestore`
 
-🌐 [Live Portfolio](https://myportfolio-beta-coral-59.vercel.app/)
+🌷 [Live Portfolio](https://myportfolio-beta-coral-59.vercel.app/)
 
-💻 [GitHub](https://github.com/iw-aurora/myportfolio)
+💻 [GitHub Repository](https://github.com/iw-aurora/myportfolio)
 
 ---
 
@@ -87,9 +161,9 @@ My personal portfolio project, built while exploring frontend development and cr
 
 A small web project focused on working with movie-related data and practicing frontend development.
 
-**Built with:** JavaScript · Firebase
+**Built with:** `JavaScript` · `Firebase`
 
-💻 [Repository](https://github.com/iw-aurora/movies_project)
+🎀 [Repository](https://github.com/iw-aurora/movies_project)
 
 ---
 
@@ -99,9 +173,9 @@ A Data Structures & Algorithms project for managing and searching student inform
 
 **Main focus:**
 
-* 🔎 Exact student ID search
-* 🌳 Hash Table
-* 🔍 Linear Search
+* 🌸 Exact student ID search
+* 🧩 Hash Table
+* 🔎 Linear Search
 * 📊 Search performance benchmarking
 
 💻 [Repository](https://github.com/iw-aurora/Project_DSA)
@@ -113,31 +187,47 @@ A Data Structures & Algorithms project for managing and searching student inform
 I'm continuing to build my foundation in **Backend Development** and gradually expanding from frontend development toward full-stack development.
 
 ```text
-Current Focus
-──────────────────────────────────
-Frontend       → React · JavaScript
-Backend        → Learning & exploring
-Database       → MySQL · Firebase
-Programming    → C++ · Java
-Tools          → Git · GitHub · Vercel
+╭────────────────────────────────────╮
+│           🌷 CURRENT FOCUS 🌷      │
+├────────────────────────────────────┤
+│ Frontend    → React · JavaScript   │
+│ Backend     → Learning & exploring │
+│ Database    → MySQL · Firebase     │
+│ Programming → C++ · Java           │
+│ Tools       → Git · GitHub · Vercel│
+╰────────────────────────────────────╯
 ```
 
-My current goal is to understand how the **frontend, backend, database, and deployment** parts of a web application work together.
+My current goal is to understand how the
+**frontend ♡ backend ♡ database ♡ deployment**
+parts of a web application work together.
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=iw-aurora&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.shion.dev/api?username=iw-aurora&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
 
-<img src="https://streak-stats.demolab.com/?user=iw-aurora&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=iw-aurora&theme=rose_pine&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=iw-aurora&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
 
-</div>
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=iw-aurora&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
+</p>
 
 ---
 
-🌷 *Still learning, still building, one project at a time.*
+<p align="center">
+
+🌷 ⋆｡°✩ ───────────── ✩°｡⋆ 🌷
+
+<i>Still learning, still building, one project at a time.</i>
+
+🌸 <b>iw-aurora</b> 🌸
+
+</p>
