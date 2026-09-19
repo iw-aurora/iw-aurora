@@ -8,7 +8,7 @@
 <tr>
 <td width="32%" align="center" valign="middle">
 
-<img src="./profile.png" alt="Huỳnh Thị Thùy Trang" width="280"/>
+<img src="./profile.jpg" alt="Huỳnh Thị Thùy Trang" width="280"/>
 
 </td>
 
@@ -313,45 +313,3 @@ Backend     → Learning & exploring
 Database    → MySQL · Firebase
 Programming → C++ · Java
 Tools       → Git · GitHub · Vercel
-</td> </tr> </table>
-💭 My Current Goal
-<p align="center">
-
-<b>Frontend</b>
-  ♡  
-<b>Backend</b>
-  ♡  
-<b>Database</b>
-  ♡  
-<b>Deployment</b>
-
-</p> <p align="center"> Understanding how all the pieces of a web application work together. 🌷 </p>
-📊 GitHub Stats
-<p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=iw-aurora&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-
-<img src="https://streak-stats.demolab.com/?user=iw-aurora&theme=rose_pine&hide_border=true" width="48%" />
-
-</p> <p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=iw-aurora&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-</p>
-<p align="center">
-
-🌷 ⋆｡°✩ ───────────────── ✩°｡⋆ 🌷
-
-<br>
-
-<i>Still learning, still building, one project at a time.</i>
-
-<br>
-
-🌸 ♡ 🌸
-
-</p> <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=iw-aurora&icon=9&color=F4A6B7" alt="Profile views" />
-
-</p> ```
