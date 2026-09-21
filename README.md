@@ -8,7 +8,11 @@
 <tr>
 <td width="32%" align="center" valign="middle">
 
-<img src="./profile.jpg" alt="Huỳnh Thị Thùy Trang" width="280"/>
+<img
+  src="./profile.jpg"
+  alt="Huỳnh Thị Thùy Trang"
+  width="300"
+/>
 
 </td>
 
@@ -61,7 +65,7 @@
 <img src="https://img.shields.io/badge/Discord-B8A9E8?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/trang-hu%E1%BB%B3nh-90b870389/">
+<a href="https://www.linkedin.com/in/hu%E1%BB%B3nh-th%E1%BB%8B-th%C3%B9y-trang-90b870389/">
 <img src="https://img.shields.io/badge/LinkedIn-9BB7D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
