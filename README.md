@@ -61,10 +61,9 @@
 <img src="https://img.shields.io/badge/Facebook-FF8FB1?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/chanze00">
-<img src="https://img.shields.io/badge/Discord-B8A9E8?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://www.instagram.com/iw_aurora42/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E8A0BF?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/hu%E1%BB%B3nh-th%E1%BB%8B-th%C3%B9y-trang-90b870389/">
 <img src="https://img.shields.io/badge/LinkedIn-9BB7D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
